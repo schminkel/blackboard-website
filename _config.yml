@@ -12,7 +12,8 @@ title: "Doxy - Documentation Website"
 email: "themeix@gmail.com"
 description: "Doxy is a responsive Jekyll template for your documentation or knowledgebase website"
 keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
-baseurl: "/blackboard-website"
+# baseurl: "/blackboard-website" # works with default domain http://schminkel.github.io/blckboard-website
+baseurl: "" # works when switching to custom domain like https://www.bb-designer.de
 url: "https://jekyll-doxy.netlify.app/"
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
 facebook: "https://www.facebook.com"
