@@ -33,8 +33,14 @@
   <title>{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}</title>
     
 	<!--  Add Favicon -->
-  <link rel="shortcut icon" href="{{ '/assets/images/favicon.png' | relative_url }}" type="image/x-icon"/>
-  <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }}" type="image/x-icon"/>
+	<link rel="shortcut icon" href="{{ '/assets/images/favicon/favicon.png' | relative_url }}" type="image/x-icon"/>
+	<link rel="apple-touch-icon" sizes="76x76" href="{{ '/assets/images/favicon/apple-touch-icon.png' | relative_url }}">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon/favicon-32x32.png' | relative_url }}">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon/favicon-16x16.png' | relative_url }}">
+	<link rel="manifest" href="{{ '/assets/images/favicon/site.webmanifest' | relative_url }}">
+	<link rel="mask-icon" href="{{ '/assets/images/favicon/safari-pinned-tab.svg' | relative_url }}" color="#226CBC">
+	<meta name="msapplication-TileColor" content="#226CBC">
+	<meta name="theme-color" content="#ffffff">
     
 	<!-- Add CSS File -->
   <link rel="stylesheet" href="{{ '/assets/css/app.min.css' | relative_url }} "/>
