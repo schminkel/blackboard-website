@@ -8,10 +8,10 @@
 ####################################################
 
 # Site settings
-title: "Doxy - Documentation Website"
-email: "themeix@gmail.com"
-description: "Doxy is a responsive Jekyll template for your documentation or knowledgebase website"
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
+title: "BlackBoard - Circuit Designer"
+email: "info@bb-designer.de"
+description: "BlackBoard Circuit Designer. Build prototypes with an easy to use tool shelf."
+keywords: "blackboard, circuit designer, electronics"
 # baseurl: "/blackboard-website" # works with default domain http://schminkel.github.io/blckboard-website
 baseurl: "" # works when switching to custom domain like https://www.bb-designer.de
 url: "https://jekyll-doxy.netlify.app/"
