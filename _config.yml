@@ -12,10 +12,14 @@ title: "BlackBoard - Circuit Designer"
 email: "info@bb-designer.de"
 description: "BlackBoard Circuit Designer. Build prototypes with an easy to use tool shelf."
 keywords: "blackboard, circuit designer, electronics"
+
 # baseurl: "/blackboard-website" # works with default domain http://schminkel.github.io/blckboard-website
 baseurl: "" # works when switching to custom domain like https://www.bb-designer.de
-url: "https://jekyll-doxy.netlify.app/"
-cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
+
+url: "https://bb-designer.de/"
+cover_image: "https://bb-designer.de/assets/images/splash_2.0.png" # Image will Display in Social Media When share the website
+
+## Social Networks
 facebook: "https://www.facebook.com"
 twitter: "https://www.twitter.com"
 instagram: "https://www.instagram.com"
@@ -31,7 +35,6 @@ youtube: "https://www.youtube.com"
 animated_header: ""  #true 
 twitter_username: jekyllrb
 github_username:  jekyll
-
 
 # Build settings
 markdown: kramdown
