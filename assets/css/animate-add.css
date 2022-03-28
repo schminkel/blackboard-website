@@ -2880,6 +2880,7 @@ h2 a.header-link:hover {
 }
 div#table-of-contents {
   background: #f2f6fb;
+  margin-right: 25px;
 }
 div#modal {
   background: #fff;
