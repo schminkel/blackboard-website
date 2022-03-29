@@ -1149,7 +1149,7 @@ h6 a:hover {
   background: rgba(33, 108, 188, 0.4);
 }
 .full-padding {
-  padding: 300px 0;
+  padding: 220px 0;
 }
 @media (max-width: 768px) {
   .full-padding {
