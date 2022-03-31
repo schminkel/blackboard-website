@@ -860,8 +860,8 @@ h6 a:hover {
 }
 @media (max-width: 575px) {
   .header-navigation .navigation-box .header-logo {
-    margin: 8px 0;
-    width: 110px;
+    margin: 15px 0;
+    width: 200px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
